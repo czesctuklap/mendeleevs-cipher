@@ -1,4 +1,4 @@
-# mendeleevs-cipher
+# Mendeleev's Cipher
 The task was to write a program that will encrypt a given text in such a way that, instead of letters, the program will output the atomic number of the element which chemical symbol corresponds to the encrypted letters, ignoring their case. The space between letters should be replaced with an asterisk (*), and the space between words should be replaced with two asterisks (**).
 
 The program uses the `Scanner` function to get text input from the user, which is then stored in a variable of type `String`.
